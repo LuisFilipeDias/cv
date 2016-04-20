@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.17)  18 MAR 2015 23:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.17)  17 APR 2016 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,11 +318,11 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 30.
 
-<face.jpg, id=2, 2728.1925pt x 2728.1925pt>
+<face.jpg, id=2, 142.28156pt x 213.79875pt>
 File: face.jpg Graphic file (type jpg)
  <use face.jpg>
 Package pdftex.def Info: face.jpg used on input line 31.
-(pdftex.def)             Requested size: 88.2037pt x 88.16982pt.
+(pdftex.def)             Requested size: 88.2037pt x 132.54405pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 31.
 
@@ -358,17 +358,20 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -395,23 +398,18 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 104.
+(Font)              <8> on input line 110.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 104.
+(Font)              <6> on input line 110.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 104.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 110.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
-
- []
-
-
-Underfull \hbox (badness 3579) in paragraph at lines 149--149
-[]\T1/phv/m/sl/10 Electrical Equip-ments: \T1/phv/m/n/10 Ana-log/Digital/Phosph
-or Os-cilo-scope, Time-
+Underfull \hbox (badness 7344) in paragraph at lines 151--151
+[]\T1/phv/m/sl/10 Electrical Equip-ments: \T1/phv/m/n/10 Ana-log/Digital Os-cil
+o-scope, Time-Domain-
  []
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
@@ -436,10 +434,10 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [3.3] (./CVenB.aux) ) 
 Here is how much of TeX's memory you used:
- 3876 strings out of 493304
- 54969 string characters out of 6139871
+ 4359 strings out of 493304
+ 59933 string characters out of 6139871
  152059 words of memory out of 5000000
- 7192 multiletter control sequences out of 15000+600000
+ 7672 multiletter control sequences out of 15000+600000
  42540 words of font info for 46 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,15n,45p,362b,787s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -447,7 +445,7 @@ Here is how much of TeX's memory you used:
 nc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CVenB.pdf (3 pages, 1503491 bytes).
+Output written on CVenB.pdf (3 pages, 80823 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
